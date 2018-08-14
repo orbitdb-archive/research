@@ -5,3 +5,7 @@
 This repo is for collecting database research material into one place.
 
 Feel free to post links, papers, articles, anything you think might be helpful!
+
+## License
+
+[MIT](LICENSE) © 2017-2018 Haja Networks Oy
