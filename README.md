@@ -8,11 +8,9 @@ Feel free to post links, papers, articles, anything you think might be helpful!
 
 ## Links
 
-[Online editor providing collaborative editing in really real-time using CRDTs and IPFS](https://github.com/ipfs-shipyard/peerpad)
-
-[Merkle DAG that replicates based on scuttlebutt logs and causal linking](https://github.com/mafintosh/hyperlog)
-
-[Discussions and Planning about getting CRDT implementation on top of IPFS & libp2p](https://github.com/ipfs/research-CRDT)
+- [Online editor providing collaborative editing in really real-time using CRDTs and IPFS](https://github.com/ipfs-shipyard/peerpad)
+- [Merkle DAG that replicates based on scuttlebutt logs and causal linking](https://github.com/mafintosh/hyperlog)
+- [Discussions and Planning about getting CRDT implementation on top of IPFS & libp2p](https://github.com/ipfs/research-CRDT)
 
 ## License
 
